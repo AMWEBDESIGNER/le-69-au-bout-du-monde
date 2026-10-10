@@ -36,3 +36,7 @@ Site statique en HTML, CSS et JavaScript sans étape de compilation. Modifier le
 - dates exactes des pizzas, de l’aïoli et de l’happy hour ;
 - autorisation définitive des photographies et crédits ;
 - mentions légales, SIRET, courriel et responsable de publication.
+
+## Motion design et provenance du code
+
+Animations réalisées en CSS vanilla, avec respect de `prefers-reduced-motion`, et une révélation progressive inspirée du pattern public [Scroll animation: IntersectionObserver and CSS](https://codepen.io/oscar-jite/pen/qBzwOVq). La logique reste locale, légère et adaptée à l’identité de chaque établissement ; aucune dépendance payante ni contenu généré n’est requis.
