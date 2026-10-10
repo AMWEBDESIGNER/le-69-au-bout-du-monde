@@ -1,6 +1,16 @@
-# Le 69 — La Pizzeria au Bout du Monde
+# Le 69 — site vitrine complet
 
-Maquette indépendante pour **Le 69**, pizzeria, bistrot et lieu de rencontre situé dans le village du Saix (05400).
+Site vitrine multipage indépendant pour **Le 69**, pizzeria, bistrot et lieu de rencontre situé dans le village du Saix (05400).
+
+- **Catégorie :** pizzeria, bistrot et lieu de rencontre
+- **Commune :** Le Saix, Hautes-Alpes
+- **État d’activité :** actif en saison, vérifié le 10 octobre 2026 via deux sources locales et le registre public
+
+## Architecture
+
+- accueil éditorial et galerie de photographies locales créditées ;
+- pages L’esprit, À table, Rendez-vous, Infos pratiques et Contact ;
+- téléphone, itinéraire, FAQ, page 404, sitemap, robots et pages légales.
 
 ## Liens
 
@@ -14,10 +24,15 @@ Maquette indépendante pour **Le 69**, pizzeria, bistrot et lieu de rencontre si
 - [Page commerces de la commune du Saix](https://village-le-saix.fr/decouvrir/commerces/)
 - [Registre public de l’entreprise](https://www.pappers.fr/entreprise/campillo-stephane-439432097)
 
-Les photographies locales présentes dans `assets/` proviennent de la fiche touristique Hautes-Alpes et sont créditées à **Stéphane Campillo** sur la source. Elles sont intégrées uniquement à cette maquette de démonstration ; leurs droits restent attachés à leurs auteurs.
+Les photographies locales présentes dans `assets/` proviennent de la fiche touristique Hautes-Alpes et sont créditées à **Stéphane Campillo** sur la source. Elles restent attachées à leurs auteurs et leur réutilisation commerciale doit être autorisée. Cette réalisation est une proposition indépendante et n’est pas le site officiel.
 
 ## Personnalisation
 
-Site statique en HTML, CSS et JavaScript sans étape de compilation. Modifier les textes dans `index.html`, les couleurs et animations dans `styles.css`, puis remplacer les photos dans `assets/` en conservant les noms de fichiers.
+Site statique en HTML, CSS et JavaScript sans étape de compilation. Modifier les textes dans `index.html` et les pages thématiques, les couleurs et animations dans `styles.css`/`pages.css`, puis remplacer les photos dans `assets/` en conservant les noms de fichiers.
 
-Les horaires et la carte étant saisonniers, ils doivent être confirmés par l’établissement avant toute utilisation officielle.
+## Éléments à confirmer par l’établissement
+
+- horaires, carte complète, tarifs et allergènes ;
+- dates exactes des pizzas, de l’aïoli et de l’happy hour ;
+- autorisation définitive des photographies et crédits ;
+- mentions légales, SIRET, courriel et responsable de publication.
